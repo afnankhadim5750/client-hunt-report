@@ -1,3 +1,5 @@
 # Client Hunt — Weekly Report
 
-Live report: https://client-hunt-weekly-report.netlify.app
+**Live:** https://client-hunt-weekly-report.netlify.app
+
+Weekly pipeline report for the international freelance client hunt: leads hunted, demo websites built, outreach emails sent, replies received.
